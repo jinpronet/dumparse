@@ -1,0 +1,9 @@
+*.pyc
+*.o
+*.a
+*.cmd
+*.obj
+/log/*
+/.idea/
+/build/
+/dist/
